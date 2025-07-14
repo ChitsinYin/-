@@ -1,5 +1,4 @@
-# -
-📚 NJU Physics Resources | Undergraduate Course Archive (2021-2025)
+# -📚 NJU Physics Resources | Undergraduate Course Archive (2021-2025)
 
 • 📓 **Core Courses**:  
   Quantum Mechanics | Electrodynamics | Statistical Physics | Mathematical Physics Methods  
